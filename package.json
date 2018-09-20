@@ -1,0 +1,17 @@
+{
+  "name": "matrox",
+  "version": "0.1.0",
+  "description": "",
+  "main": "compiled/index.js",
+  "types": "compiled/index.d.ts",
+  "scripts": {
+    "build": "node node_modules/typescript/bin/tsc"
+  },
+  "dependencies": {},
+  "author": "Jason 'Toolbox' Oettinger <jason@oettinger.email>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.10.1",
+    "typescript": "^2.9.2"
+  }
+}
